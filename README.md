@@ -81,6 +81,7 @@ Según los cálculos, la deuda se aproxima a $40 mil dólares ~ 20 millones de c
 ## Paso 4. Datos del denunciante
 
 - Similar al registro, ingrese sus datos como denunciante.
+- Click Siguiente.
 
 ![Image Holder](images/tutorial-05.png)
 
@@ -90,11 +91,9 @@ Según los cálculos, la deuda se aproxima a $40 mil dólares ~ 20 millones de c
 
 ![LPG Contact](images/lpg-contact1.png)
 
-![Image Holder](images/tutorial-06.png)
-
 ### Ingresar datos de la entidad jurídica o persona a demandar.
 
-Usar como referencia el screenshot de arriba.
+- Use como referencia el screenshot de abajo.
 
 - En este caso: LPG Productions.
     - Seleccionar cédula jurídica.
@@ -114,6 +113,10 @@ Usar como referencia el screenshot de arriba.
     - Kevvyn, dueño de LPG.
     - Josue, hermano del dueño y colaborador de LPG.
     - Usar screenshot de arriba como referencia.
+
+![Image Holder](images/tutorial-06.png)
+
+- Click en Siguiente.
 
 ## Paso 6. Denuncia
 
@@ -145,6 +148,7 @@ Usar como referencia el screenshot de arriba.
 - Click en **Seleccione Documentos**.
 - Seleccione el archivo PDF con las imágenes.
 - Click en Cargar.
+- Click Siguiente.
 
 ![Image Holder](images/tutorial-08.png)
 
