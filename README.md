@@ -114,7 +114,7 @@ En Datos del Denunciante, incresar información de la entidad jurídica a demand
 
 ## Paso 6. Denuncia
 
-- En el caso de conciertos entradas o tours, seleccione "No Encontrado" en bien o servicio y especifique.
+- En el caso de conciertos entradas o tours, seleccione "No Encontrado" en *"Bien o servicio"* y especifique su caso.
 - Sientase libre de escribir su propia descripción o hacer un copy-paste
 
     LPG Productions canceló muchos eventos masivos, en específico conciertos de metal.
