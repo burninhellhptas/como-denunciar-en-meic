@@ -1,6 +1,6 @@
 # Como crear una denuncia en el MEIC (Costa Rica)
 
-- MEIC es el Ministerio de Economía, Industria y Comercio (MEIC)
+- MEIC es el Ministerio de Economía, Industria y Comercio (MEIC).
 - Son los encargados de los espectáculos públicos.
 
 # En este blog usted aprenderá a
@@ -27,7 +27,7 @@
     - Fuente: Ver screenshots en apéndice.
 - [Arte Totem Media | Oasis: Sueño de pasear a México termina en pesadilla
 ](https://www.diarioextra.com/noticia/sueno-de-pasear-a-mexico-termina-en-pesadilla/)
-    - *Víctimas denuncian situación, perdieron más de $1.200 cada uno*
+    - *Víctimas denuncian situación, perdieron más de $1.200 cada uno*.
     - Fuente: Diario Extra.
 - Arte Totem Media | Mexico Metal Fest 2023: Deuda de $500 a cada uno de los que compraron el paquete de viaje que ofrecían.
     - Fuente: Comunidad Metalera.
@@ -51,7 +51,7 @@ Según los cálculos, la deuda se aproxima a $40 mil dólares ~ 20 millones de c
 - Registrarse en el MEIC.
 - Un PDF con las imágenes de pagos, entradas, comprobantes y recibos de la estafa o fraude, ya que el sistema solo acepta este formato.
 - La información de la entidad a demandar y sus colaboradores.
-    - Este tutorial usted podrá encontrar esta información, no hace falta que la busque en medios externos.
+    - Este tutorial usted encontrará esta información, no hace falta que la busque en medios externos.
 
 
 ## Paso 1. Registrarse en el MEIC
@@ -88,11 +88,13 @@ Según los cálculos, la deuda se aproxima a $40 mil dólares ~ 20 millones de c
 
 ![LPG Contact](images/lpg-contact.png)
 
+![LPG Contact](images/lpg-contact1.png)
+
 ![Image Holder](images/tutorial-06.png)
 
-### Ingresar datos de LPG y miembros de la productora.
+### Ingresar datos de la entidad jurídica o persona a demandar.
 
-En Datos del Denunciante, incresar información de la entidad jurídica a demandar. 
+Usar como referencia el screenshot de arriba.
 
 - En este caso: LPG Productions.
     - Seleccionar cédula jurídica.
@@ -108,9 +110,10 @@ En Datos del Denunciante, incresar información de la entidad jurídica a demand
         - **DELA TAOPACHULA 150E CASA AZUL**.
 
 - En Denunciados Adicionales, agregar cédula y nombre de los dueños y colaboradores que afectaron a los usuarios, en este ejemplo se agregan a:
-    - Kevvin, dueño de LPG.
+    - 
+    - Kevvyn, dueño de LPG.
     - Josue, hermano del dueño y colaborador de LPG.
-    - Usar screenshot de arriba como guía.
+    - Usar screenshot de arriba como referencia.
 
 ## Paso 6. Denuncia
 
