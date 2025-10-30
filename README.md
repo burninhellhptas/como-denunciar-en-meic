@@ -138,7 +138,8 @@ Usar como referencia el screenshot de arriba.
 
 - La página solo acepta formatos .doc o .pdf
 - Recomendación:
-    - En Word o Google Docs (google drive - crear nuevo doc) añada todas las fotos.
+    - En Word o Google Docs crear un nuevo documento y añada todas las fotos.
+    - Asegure que sean legíbles.
     - Guarde o descargue el documento como PDF.
 
 - Click en **Seleccione Documentos**.
