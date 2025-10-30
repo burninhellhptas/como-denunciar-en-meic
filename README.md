@@ -42,7 +42,7 @@
 | Mexico Metal Fest 2023 | $500                                 | 10                         | $5000            |
 | -                      | -                                    | -                          | **$38000**       |
 
-Según los cálculo con números promedio, la deuda se aproxima a $40 mil dólares ~ 20 millones de colones.
+Según los cálculos, la deuda se aproxima a $40 mil dólares ~ 20 millones de colones.
 
 # Cómo denunciar
 
