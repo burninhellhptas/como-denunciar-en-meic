@@ -118,19 +118,19 @@ Usar como referencia el screenshot de arriba.
 ## Paso 6. Denuncia
 
 - En el caso de conciertos entradas o tours, seleccione "No Encontrado" en *"Bien o servicio"* y especifique su caso.
-- Sientase libre de escribir su propia descripción o hacer un copy-paste
+- Sientase libre de escribir su propia descripción o hacer un copy-paste.
 
-    LPG Productions canceló muchos eventos masivos, en específico conciertos de metal.
-
-    Prometieron devolver el dinero de las entradas pero no lo han hecho, muchos usuarios estamos afectados y sin el dinero de vuelta.
-
-    Se estima una deuda de aproximadamente 20millones.
-
-    No quieren hacerse responsables.
-
-    En los documentos adjuntos se muestran capturas de las entradas compradas porr digiticket.shop y pantallazos de SINPES y depósitos hacia la cuenta de Kevvyn (dueño de LPG Productions, denunciado y mencionado en la sección anterior)
-
-    Ver caso en: https://github.com/burninhellhptas/como-denunciar-en-meic
+>   LPG Productions canceló muchos eventos masivos, en específico conciertos de metal.
+> 
+>    Prometieron devolver el dinero de las entradas pero no lo han hecho, muchos usuarios estamos afectados y sin el dinero de vuelta.
+>
+>    Se estima una deuda de aproximadamente 20millones.
+>
+>    No quieren hacerse responsables.
+>
+>    En los documentos adjuntos se muestran capturas de las entradas compradas porr digiticket.shop y pantallazos de SINPES y depósitos hacia la cuenta de Kevvyn (dueño de LPG Productions, denunciado y mencionado en la sección anterior)
+>
+>    Ver caso en: https://github.com/burninhellhptas/como-denunciar-en-meic
 
 ![Image Holder](images/tutorial-07.png)
 
